@@ -1,0 +1,6 @@
+title: Venkatesh Addala
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: false
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
