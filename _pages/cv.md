@@ -36,6 +36,7 @@ Developed foundational skills in software engineering and computer science, with
 
 ### **Software Engineer, Impetus Inc.**
 *May 2022 - June 2024*  
+**Clients** : **Cummins Inc.** and **NPD**
 Pioneered performance optimization and data management for a variety of enterprise systems, achieving substantial improvements:
 
 - **Data Transformation & Optimization**: Led the migration of complex SAS stored procedures to PySpark on Databricks, significantly boosting processing performance and scalability.
@@ -48,6 +49,7 @@ Pioneered performance optimization and data management for a variety of enterpri
 
 ### **Software Engineer, Exafluence Inc.**
 *Aug 2020 - May 2022*  
+**Clients** : **AWS(Amazon)**
 Focused on building scalable healthcare applications and real-time data pipelines:
 
 - **SQL-to-Spark Conversion**: Converted intricate SQL procedures to Spark, building scalable ETL workflows using Java and Spark SQL.
