@@ -20,8 +20,8 @@ main:
   - title: "Milestones"
     url: /milestones/
 
-  #- title: "Let's Connect"
-    #url: /talks/ 
+  - title: "Let's Connect"
+    url: /contactme/ 
         
   
     
