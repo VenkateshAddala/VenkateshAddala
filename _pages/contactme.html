@@ -15,9 +15,10 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-<p>If you have any questions or would like to get in touch, please fill out the form below:</p>
+
 
 <form id="contact-form" style="max-width: 600px; margin: auto;">
+  <p>If you have any questions or would like to get in touch, please fill out the form below:</p>
   <div style="margin-bottom: 1rem;">
     <label for="name" style="display: block; font-weight: bold;">Your Name:</label>
     <input type="text" id="name" name="user_name" placeholder="Enter your name" required style="width: 100%; padding: 0.5rem;">
@@ -31,7 +32,7 @@ author_profile: true
     <textarea id="message" name="message" placeholder="Type your message here" required style="width: 100%; padding: 0.5rem; height: 150px;"></textarea>
   </div>
   <div>
-    <button type="submit" style="padding: 0.5rem 1rem; background-color: #007ACC; color: white; border: none; cursor: pointer;">
+    <button type="submit" id="submit-btn" style="padding: 0.5rem 1rem; background-color: #007ACC; color: white; border: none; cursor: pointer;">
       Send Message
     </button>
   </div>
@@ -46,6 +47,15 @@ author_profile: true
   document.getElementById('contact-form').addEventListener('submit', function(event) {
     event.preventDefault();
 
+    // Validate the email
+    const email = document.getElementById('email').value;
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; // Basic email validation regex
+    if (!emailRegex.test(email)) {
+      alert('Please enter a valid email address.');
+      return;
+    }
+
+    // Send the form using EmailJS
     emailjs.sendForm('service_5ep8cjg', 'template_57hl10p', this)
       .then(function() {
         alert('Message sent successfully!');
