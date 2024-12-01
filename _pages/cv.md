@@ -36,7 +36,7 @@ Developed foundational skills in software engineering and computer science, with
 
 ### **Software Engineer, Impetus Inc.**
 *May 2022 - June 2024*  
-**Clients** : **Cummins Inc.** and **NPD**
+**Clients** : **Cummins Inc.**, **LBrands(Bath&Body Works)** and **NPD**
 
 Pioneered performance optimization and data management for a variety of enterprise systems, achieving substantial improvements:
 
