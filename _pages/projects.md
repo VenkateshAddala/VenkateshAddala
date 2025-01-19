@@ -7,6 +7,12 @@ author_profile: true
 
 ## 🚀 **Projects Across the Tech Universe**
 
+### **Scala-Based ETL Processing with Maven and PostgreSQL**
+Designed and implemented an ETL pipeline using Scala and Maven to process and refine large-scale datasets, substantially increasing
+processing efficiency and optimizing data retrieval performance with PostgreSQL.
+
+- **Tech Stack**: Scala, Maven, PostgreSQL,IntelliJ
+
 ### **Microservices CRUD Application (In Progress)**
 Developing a microservices-based application with CRUD operations. Dockerized services and Kubernetes will be used to ensure scalable deployment.
 
