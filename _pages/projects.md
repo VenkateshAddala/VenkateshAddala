@@ -7,6 +7,13 @@ author_profile: true
 
 ## 🚀 **Projects Across the Tech Universe**
 
+### **Machine Learning–Driven Cricket Analysis and Match Outcome Prediction**
+Analyzed IPL Cricket match data (2008–2024) to clean, visualize, and engineer features, then built and compared logistic regression,
+Random forest, Gradient boosting, and XGBoost models, achieving 74.5% accuracy to predict match winners and guide team and
+stakeholder decisions.
+
+- **Tech Stack**: Python, Numpy, Pandas, Machine Learning Algorithms, Sci-kit, Kaggle, Folium, Matplotlib, Seaborn
+
 ### **Scala-Based ETL Processing with Maven and PostgreSQL**
 Designed and implemented an ETL pipeline using Scala and Maven to process and refine large-scale datasets, substantially increasing
 processing efficiency and optimizing data retrieval performance with PostgreSQL.
