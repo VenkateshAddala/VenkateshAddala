@@ -14,7 +14,7 @@ author_profile: true
 
 
 
-- **Languages:** *Java, Python, C/C++, JavaScript*  
+- **Languages:** *Java, Python, C/C++, Scala, JavaScript*  
   The **core trio** that I wield across projects, each with its unique superpowers. Whether it’s Python's adaptability, Java's robustness, or JavaScript’s interactivity, these languages are my go-to tools for crafting efficient solutions.
 
 - **Frameworks & Libraries:** *ReactJS, Spring Boot(MicroServices), Spark, Kafka*  
