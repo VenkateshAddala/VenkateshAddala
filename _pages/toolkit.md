@@ -17,7 +17,7 @@ author_profile: true
 - **Languages:** *Java, Python, C/C++, Scala, JavaScript*  
   The **core trio** that I wield across projects, each with its unique superpowers. Whether it’s Python's adaptability, Java's robustness, or JavaScript’s interactivity, these languages are my go-to tools for crafting efficient solutions.
 
-- **Frameworks & Libraries:** *ReactJS, Spring Boot(MicroServices), Spark, Kafka*  
+- **Frameworks & Libraries:** *ReactJS, Spring Boot(MicroServices, SpringAI), Spark, Kafka*  
   From powering responsive UIs with **ReactJS** to building resilient backend services with **Spring Boot**, these are the engines that bring my ideas to life. **Spark** and **Kafka** fuel my data processing workflows, ensuring seamless streaming and analysis at scale.
 
 - **Databases:** *MySQL, Snowflake, MongoDB, PostgreSQL*  
