@@ -5,17 +5,25 @@ permalink: /projects/
 author_profile: true
 ---
 
+## 📄 **Research Publications & Scholarly Work**
+
+### **ReQuillify: A Learner-Driven Facility for Building Remediation Capacity in STEM Courses**
+Co-authored a peer-reviewed research paper proposing an automated, learner-centric remediation framework that streamlines assessment artifact extraction and feedback delivery at scale. Empirically validated in live course settings.
+
+- **Venue**: ASEE Annual Conference 2026 (Peer-Reviewed)  
+- **Role**: Co-Author  
+- **Focus Areas**: Educational Automation, Learning Analytics, Scalable Assessment Systems
+
+---
+
+### **Analyzing Student GenAI Proficiency and Workforce Readiness Using Multi-LLM Pipelines**
+Co-authored a research study analyzing graduate student reflections to quantify AI proficiency, adoption depth, and ethical awareness using a multi-LLM and NLP-driven analytics pipeline.
+
+- **Venue**: Teaching and Learning with AI Conference, UCF (Peer-Reviewed Abstract)  
+- **Role**: Co-Author  
+- **Focus Areas**: Generative AI in Education, NLP Analytics, Workforce Readiness
+
 ## 🚀 **Projects Across the Tech Universe**
-
-### **ReQuillify: Automated Assessment Artifact Extraction Platform**
-Designed and implemented an automation platform to extract, consolidate, and securely deliver Canvas LMS SpeedGrader artifacts as canonical, UCF-ID–mapped PDFs. Reduced grading turnaround time from 30–40 minutes to 2–3 minutes per student and eliminated manual retrieval errors. This work resulted in a peer-reviewed ASEE 2026 publication.
-
-- **Tech Stack**: Python, Flask, Playwright (Chromium), MCP Automation, Canvas LMS, PDF Processing, HTML/CSS
-
-### **Multi-LLM Analytics Pipeline for AI Proficiency Assessment**
-Developed a scalable NLP analytics pipeline integrating multiple LLMs, sentence embeddings, unsupervised topic modeling, and statistical visualization to assess AI proficiency, adoption depth, and workforce readiness across graduate cohorts. Submitted as a peer-reviewed academic abstract.
-
-- **Tech Stack**: Python, LLMs (Mistral, Qwen, LLaMA), NLP, Sentence Embeddings, Topic Modeling (NMF), Pandas, Matplotlib
 
 ### **Machine Learning–Driven Cricket Analysis and Match Outcome Prediction**
 Analyzed IPL Cricket match data (2008–2024) to clean, visualize, and engineer features, then built and compared logistic regression,
