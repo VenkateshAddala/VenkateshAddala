@@ -7,6 +7,16 @@ author_profile: true
 
 ## 🚀 **Projects Across the Tech Universe**
 
+### **ReQuillify: Automated Assessment Artifact Extraction Platform**
+Designed and implemented an automation platform to extract, consolidate, and securely deliver Canvas LMS SpeedGrader artifacts as canonical, UCF-ID–mapped PDFs. Reduced grading turnaround time from 30–40 minutes to 2–3 minutes per student and eliminated manual retrieval errors. This work resulted in a peer-reviewed ASEE 2026 publication.
+
+- **Tech Stack**: Python, Flask, Playwright (Chromium), MCP Automation, Canvas LMS, PDF Processing, HTML/CSS
+
+### **Multi-LLM Analytics Pipeline for AI Proficiency Assessment**
+Developed a scalable NLP analytics pipeline integrating multiple LLMs, sentence embeddings, unsupervised topic modeling, and statistical visualization to assess AI proficiency, adoption depth, and workforce readiness across graduate cohorts. Submitted as a peer-reviewed academic abstract.
+
+- **Tech Stack**: Python, LLMs (Mistral, Qwen, LLaMA), NLP, Sentence Embeddings, Topic Modeling (NMF), Pandas, Matplotlib
+
 ### **Machine Learning–Driven Cricket Analysis and Match Outcome Prediction**
 Analyzed IPL Cricket match data (2008–2024) to clean, visualize, and engineer features, then built and compared logistic regression,
 Random forest, Gradient boosting, and XGBoost models, achieving 74.5% accuracy to predict match winners and guide team and
