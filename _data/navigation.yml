@@ -23,8 +23,8 @@ main:
   - title: "Let's Connect"
     url: /contactme/ 
         
-  
-    
+  - title: "Publications"
+    url: /publications/  
   
     
   # - title: "Guide"
