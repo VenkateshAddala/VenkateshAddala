@@ -34,6 +34,17 @@ Developed foundational skills in software engineering and computer science, with
 
 ## 💼 **Professional Experience**
 
+### **Graduate Research Assistant, University of Central Florida**
+*Aug 2025 – May 2026*  
+**Department**: Computer Science | **Research Areas**: Educational Automation, AI Analytics, NLP
+
+- Designed and implemented an automation platform to extract, consolidate, and securely deliver Canvas LMS SpeedGrader artifacts (rubrics, annotations, scratch sheets) as canonical, UCF-ID–mapped PDFs, reducing grading turnaround time from 30–40 minutes to 2–3 minutes per student.
+- Co-authored a peer-reviewed ASEE 2026 paper titled *“ReQuillify: A Learner-Driven Facility for Building Remediation Capacity in STEM Courses.”*
+- Built a scalable NLP analytics pipeline integrating multiple LLMs, sentence embeddings, unsupervised topic modeling, and statistical visualization to analyze graduate student discussion posts.
+- Quantitatively evaluated AI proficiency, adoption depth, and workforce readiness, contributing to a peer-reviewed abstract submitted to the Teaching and Learning with AI Conference (UCF).
+- **Tech Stack**: Python, Flask, Playwright (Chromium), MCP Automation, LLMs (Mistral, Qwen, LLaMA), NLP, Pandas, Matplotlib
+
+
 ### **Software Engineer, Impetus Inc.**
 *May 2022 - June 2024*  
 **Clients** : **Cummins Inc.**, **LBrands(Bath&Body Works)** and **NPD**
