@@ -46,3 +46,45 @@
   width: 160px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
+
+/* Mobile + small screens */
+@media (max-width: 768px) {
+
+  /* Make the whole author card layout breathe */
+  .author__content,
+  .author__urls-wrapper {
+    text-align: left;
+  }
+
+  /* Center avatar and constrain size */
+  .author__avatar {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 1rem 0 !important;
+    text-align: center;
+  }
+
+  /* This is the main fix: stop the image from becoming huge */
+  .author__avatar img {
+    width: min(320px, 92vw) !important;   /* responsive width */
+    max-width: 320px !important;
+    height: 220px !important;            /* consistent height */
+    object-fit: cover;                   /* crops nicely instead of stretching */
+    object-position: center top;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+  }
+
+  /* Reduce big heading sizes on mobile so content fits nicely */
+  h1 {
+    font-size: 1.9rem;
+    line-height: 1.15;
+  }
+}
+
+/* Extra small phones */
+@media (max-width: 420px) {
+  .author__avatar img {
+    max-width: 92vw !important;
+    height: 200px !important;
+  }
+}
