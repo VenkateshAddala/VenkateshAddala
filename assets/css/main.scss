@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Override avatar shape: make profile image rectangular */
+.author__avatar img {
+  border-radius: 8px !important;
+  width: 160px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
