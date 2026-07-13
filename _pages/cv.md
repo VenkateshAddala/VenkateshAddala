@@ -14,7 +14,7 @@ redirect_from:
 Welcome to a curated walkthrough of my education, experience, and projects that shape my path as a **Software Engineer** and **Tech Enthusiast**.
 
 ---
- <a href="https://venkateshaddala.github.io/VenkateshAddala/files/resume.pdf" target="_blank" rel="noopener noreferrer">View Full Resume (PDF)</a>
+
 ## 🎓 **Academic Voyage**
 
 ### **Master of Science in Computer Science**
