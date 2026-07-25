@@ -60,7 +60,7 @@ Pioneered performance optimization and data management for a variety of enterpri
 
 
 ### **Software Engineer, Exafluence Inc.**
-*Aug 2020 - May 2022*  
+*June 2020 - May 2022*  
 **Clients** : **AWS(Amazon Web Services)**
 
 Focused on building scalable healthcare applications and real-time data pipelines:
