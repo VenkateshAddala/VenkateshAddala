@@ -35,7 +35,7 @@ Developed foundational skills in software engineering and computer science, with
 ## 💼 **Professional Experience**
 
 ### **Data & AI Automation, University of Central Florida**
-*Aug 2025 – May 2026*  
+*Aug 2025 – Present*  
 **Department**: Computer Science | **Research Areas**: Educational Automation, Data Engineering, AI Analytics, NLP
 
 - Designed and implemented an automation platform to extract, consolidate, and securely deliver Canvas LMS SpeedGrader artifacts (rubrics, annotations, scratch sheets) as canonical, UCF-ID–mapped PDFs, reducing grading turnaround time from 30–40 minutes to 2–3 minutes per student.
