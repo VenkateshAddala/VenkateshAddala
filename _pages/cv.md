@@ -47,7 +47,7 @@ Developed foundational skills in software engineering and computer science, with
 
 ### **Software Engineer, Impetus Inc.**
 *May 2022 - June 2024*  
-**Clients** : **Cummins Inc.**, **LBrands(Bath&Body Works)** and **NPD**
+**Clients** : **American Express**, **Cummins Inc.**, **LBrands(Bath&Body Works)** 
 
 Pioneered performance optimization and data management for a variety of enterprise systems, achieving substantial improvements:
 
@@ -56,7 +56,7 @@ Pioneered performance optimization and data management for a variety of enterpri
 - **Data Migration**: Spearheaded the migration from Informatica and Teradata to Snowflake for Cummins, enhancing data retrieval and storage efficiencies.
 - **Enhanced BI Capabilities**: Integrated ETL data with Oracle Business Intelligence (OBIEE) for improved visualization and reporting.
 - **Technical Exploration**: Conducted a Proof of Concept (POC) using Scala for multi-platform data ingestion.
-- **Tech Stack**: Python, PySpark, SQL, Snowflake, Databricks, Scala, Informatica, Teradata.
+- **Tech Stack**: Python, PySpark, SQL, Snowflake, Databricks, Scala, Starburst, Informatica, Teradata.
 
 
 ### **Software Engineer, Exafluence Inc.**
