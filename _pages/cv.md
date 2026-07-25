@@ -34,9 +34,9 @@ Developed foundational skills in software engineering and computer science, with
 
 ## 💼 **Professional Experience**
 
-### **Graduate Research Assistant, University of Central Florida**
+### **Data & AI Automation, University of Central Florida**
 *Aug 2025 – May 2026*  
-**Department**: Computer Science | **Research Areas**: Educational Automation, AI Analytics, NLP
+**Department**: Computer Science | **Research Areas**: Educational Automation, Data Engineering, AI Analytics, NLP
 
 - Designed and implemented an automation platform to extract, consolidate, and securely deliver Canvas LMS SpeedGrader artifacts (rubrics, annotations, scratch sheets) as canonical, UCF-ID–mapped PDFs, reducing grading turnaround time from 30–40 minutes to 2–3 minutes per student.
 - Co-authored a peer-reviewed ASEE 2026 paper titled *“ReQuillify: A Learner-Driven Facility for Building Remediation Capacity in STEM Courses.”*
